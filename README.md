@@ -9,5 +9,7 @@ To run:
 java maschio.shopping.basket.Shopping ListOfFruitNames
 
 Ex:
+
 java maschio.shopping.basket.Shopping Orange Orange Apple Papaya Papaya Banana Banana Apple Papaya Orange
+
 java maschio.shopping.basket.Shopping Banana Papaya Papaya Apple Orange Papaya Orange Apple Apple Papaya Orange Orange Orange Papaya Banana Banana Banana Apple Papaya Apple Apple Apple
